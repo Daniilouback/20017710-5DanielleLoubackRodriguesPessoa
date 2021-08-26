@@ -8,4 +8,5 @@ include "./functions/functions.php";
 
 //inclusao do footer
 include "pages/footer.php";
+// alteração no commit;
 ?>
